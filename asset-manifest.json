@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/hooks-practice-GIPHY/static/js/main.6b2ffdeb.chunk.js",
+    "main.js.map": "/hooks-practice-GIPHY/static/js/main.6b2ffdeb.chunk.js.map",
+    "runtime-main.js": "/hooks-practice-GIPHY/static/js/runtime-main.c9c0ee6f.js",
+    "runtime-main.js.map": "/hooks-practice-GIPHY/static/js/runtime-main.c9c0ee6f.js.map",
+    "static/css/2.4659568d.chunk.css": "/hooks-practice-GIPHY/static/css/2.4659568d.chunk.css",
+    "static/js/2.5c3b38dc.chunk.js": "/hooks-practice-GIPHY/static/js/2.5c3b38dc.chunk.js",
+    "static/js/2.5c3b38dc.chunk.js.map": "/hooks-practice-GIPHY/static/js/2.5c3b38dc.chunk.js.map",
+    "index.html": "/hooks-practice-GIPHY/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/hooks-practice-GIPHY/static/css/2.4659568d.chunk.css.map",
+    "static/js/2.5c3b38dc.chunk.js.LICENSE.txt": "/hooks-practice-GIPHY/static/js/2.5c3b38dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9c0ee6f.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.5c3b38dc.chunk.js",
+    "static/js/main.6b2ffdeb.chunk.js"
+  ]
+}
